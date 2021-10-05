@@ -1,0 +1,7 @@
+analyzer:
+  exclude:
+    - "lib/models/**/*.g.dart"
+    - "lib/services/*.g.dart"
+
+# 120
+include: package:all_about_linter/analysis_options.yaml

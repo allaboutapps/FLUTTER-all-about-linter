@@ -4,7 +4,7 @@
 
 Add `all_about_linter` as dependency to your `pubspec.yaml`
 ```yaml
-dependencies:
+dev_dependencies:
   all_about_linter:
    git:
      url: https://git.allaboutapps.at/scm/flutter/all-about-linter.git
@@ -18,6 +18,8 @@ include: package:all_about_linter/analysis_options.yaml
 # double quotes
 include: package:all_about_linter/analysis_options_double.yaml
 ```
+
+You can aso find an example `analysis_options.yaml` file in the example directory in this repo.
 
 ## Line length
 
