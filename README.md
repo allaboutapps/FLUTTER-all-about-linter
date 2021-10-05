@@ -2,7 +2,7 @@
 
 ## Install
 
-Add `lint` as dependency to your `pubspec.yaml`
+Add `all_about_linter` as dependency to your `pubspec.yaml`
 ```yaml
 dependencies:
   all_about_linter:
@@ -31,7 +31,7 @@ include: package:all_about_linter/analysis_options_double.yaml
 
 ## Enable/Disable rules
 
-`lint` is customizable, you can add or remove rules, depending on your needs. 
+`all_about_linter` is customizable, you can add or remove rules, depending on your needs. 
 To do so adjust your `analysis_options.yaml`.
 
 ```yaml
