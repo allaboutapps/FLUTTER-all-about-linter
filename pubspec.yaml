@@ -1,0 +1,6 @@
+name: all_about_linter
+description: A linter for allaboutapps.
+# version: 1.0.0
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
