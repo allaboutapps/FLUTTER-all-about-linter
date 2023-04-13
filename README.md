@@ -7,7 +7,7 @@ Add `all_about_linter` as dependency to your `pubspec.yaml`
 dev_dependencies:
   all_about_linter:
    git:
-     url: https://git.allaboutapps.at/scm/flutter/all-about-linter.git
+     url: ssh://git@git-svc.allaboutapps.at:2222/flutter/all-about-linter.git
 ```
 
 Create a `analysis_options.yaml` file in the root of your project and import the `all_about_linter` rules:
