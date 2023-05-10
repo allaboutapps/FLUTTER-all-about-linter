@@ -5,10 +5,10 @@
       "name": "all_about_linter",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.10"
+      "languageVersion": "2.12"
     }
   ],
-  "generated": "2021-10-05T07:20:28.910830Z",
+  "generated": "2023-05-10T19:37:33.043157Z",
   "generator": "pub",
-  "generatorVersion": "2.14.2"
+  "generatorVersion": "3.0.0"
 }
